@@ -1,0 +1,18 @@
+@import url("https://https://fonts.googleapis.com/css?family=Tangerine");
+
+.App {
+  text-align: center;
+}
+* {
+ box-sizing: 0;
+ padding: 0;
+ margin: 0;
+}
+
+.header{
+    align-items: center;
+    overflow: hidden;
+    background-color: #01f1f1;
+    padding: 20px 10px;
+  
+}
